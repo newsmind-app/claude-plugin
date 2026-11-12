@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "newsmind": {
+      "type": "http",
+      "url": "https://newsmind.app/mcp"
+    }
+  }
+}

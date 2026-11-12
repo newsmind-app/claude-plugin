@@ -1,0 +1,25 @@
+{
+  "name": "newsmind",
+  "displayName": "Newsmind — RSS for your AI",
+  "version": "1.0.0",
+  "description": "Your RSS feeds, readable by Claude. Subscribe to feeds, import OPML, search across everything you follow, and save watches that surface new matches automatically.",
+  "author": {
+    "name": "Newsmind",
+    "email": "support@newsmind.app",
+    "url": "https://newsmind.app"
+  },
+  "homepage": "https://newsmind.app",
+  "privacyPolicyUrl": "https://newsmind.app/privacy",
+  "repository": "https://github.com/newsmind-app/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "rss",
+    "atom",
+    "feeds",
+    "news",
+    "opml",
+    "reader",
+    "monitoring"
+  ],
+  "mcpServers": "./.mcp.json"
+}
