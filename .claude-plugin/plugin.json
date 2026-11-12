@@ -10,6 +10,7 @@
   },
   "homepage": "https://newsmind.app",
   "privacyPolicyUrl": "https://newsmind.app/privacy",
+  "documentationUrl": "https://newsmind.app/install",
   "repository": "https://github.com/newsmind-app/claude-plugin",
   "license": "MIT",
   "keywords": [
